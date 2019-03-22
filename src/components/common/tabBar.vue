@@ -1,6 +1,7 @@
 <template>
   <div>
 
+    <QuestionTwo/>
   </div>
 </template>
 

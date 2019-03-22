@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="show">
-      <div @click="showFree" >免费问答</div>
+      <div @click="showFree">免费问答</div>
       <div @click="showPay">付费专区</div>
     </div>
     <QuestionOne v-if="isFree"/>
